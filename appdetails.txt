@@ -13,13 +13,13 @@
 		"image": "https://hugsoft.github.io/appdetails/notifyweather.png"
 	},
 	{
-		"name": "Shady Notify"
+		"name": "Shady Notify",
 		"rating": 5,
 		"package_name": "in.hugsoft.shadynotify",
 		"image": "https://hugsoft.github.io/appdetails/shadynotify.png"
 	},
 	{
-		"name": "Pulse Edge Animation"
+		"name": "Pulse Edge Animation",
 		"rating": 5,
 		"package_name": "in.hugsoft.pulseedgeanimation",
 		"image": "https://hugsoft.github.io/appdetails/pulseedgeanimation.png"
@@ -32,7 +32,7 @@
 		"image": "https://hugsoft.github.io/appdetails/speedcontact.png"
 	},
 	{
-		"name": "Volume++"
+		"name": "Volume++",
 		"rating": 5,
 		"package_name": "in.hugsoft.volume",
 		"image": "https://hugsoft.github.io/appdetails/volume.png"
@@ -137,46 +137,46 @@
 	},
 	
 	{
-		"name": "Pocket Lock"
+		"name": "Pocket Lock",
 		"rating": 5,
 		"package_name": "in.hugsoft.pocketlock",
 		"image": "https://hugsoft.github.io/appdetails/pocketlock.png"
 	},
 	
 	{
-		"name": "Roundify"
+		"name": "Roundify",
 		"rating": 5,
 		"package_name": "in.hugsoft.roundify",
 		"image": "https://hugsoft.github.io/appdetails/roundify.png"
 	},
 	
 	{
-		"name": "Speed Pictures"
+		"name": "Speed Pictures",
 		"rating": 5,
 		"package_name": "in.hugsoft.speedpictures",
 		"image": "https://hugsoft.github.io/appdetails/speedpicture.png"
 	},
 	
 	{
-		"name": "Volume Changer"
+		"name": "Volume Changer",
 		"rating": 5,
 		"package_name": "in.hugsoft.volumechanger",
 		"image": "https://hugsoft.github.io/appdetails/volume.png"
 	},
 	{
-		"name": "Volume Screen lock"
+		"name": "Volume Screen lock",
 		"rating": 5,
 		"package_name": "in.hugsoft.volumescreenlock",
 		"image": "https://hugsoft.github.io/appdetails/volumescreenlock.png"
 	},
 	{
-		"name": "Whatsclean"
+		"name": "Whatsclean",
 		"rating": 5,
 		"package_name": "in.hugsoft.whatsclean",
 		"image": "https://hugsoft.github.io/appdetails/whatsclean.png"
 	},
 	{
-		"name": "WStatus Saver"
+		"name": "WStatus Saver",
 		"rating": 5,
 		"package_name": "in.hugsoft.wstatussaver",
 		"image": "https://hugsoft.github.io/appdetails/wstatussaver.png"
