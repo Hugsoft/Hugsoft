@@ -55,7 +55,7 @@
 		"name": "Insta Torch",
 		"rating": 5,
 		"package_name": "in.hugsoft.instatorch",
-		"image": "https://hugsoft.github.io/appdetails/instatorch.png"
+		"image": "https://hugsoft.github.io/appdetails/instanttorch.png"
 	},
 	
 	{
