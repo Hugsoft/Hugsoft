@@ -161,7 +161,7 @@
 		"name": "Volume Changer",
 		"rating": 5,
 		"package_name": "in.hugsoft.volumechanger",
-		"image": "https://hugsoft.github.io/appdetails/volume.png"
+		"image": "https://hugsoft.github.io/appdetails/volumechanger.png"
 	},
 	{
 		"name": "Volume Screen lock",
